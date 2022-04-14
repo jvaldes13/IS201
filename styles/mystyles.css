@@ -1,0 +1,45 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    color: blue;
+    padding: 10px;
+    margin: 20px;
+}
+
+p{
+    text-align: center;
+    color: rgb(10, 10, 10);
+    padding: 10px;
+    margin: 20px;
+}
+
+li{
+    text-align: left;
+    color: rgb(10, 10, 10);
+    padding: 10px;
+    margin: 20px;
+}
+
+#top{
+    color:red;
+}
+
+.excitedText{
+    color: green;
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgba(197, 213, 243, 0.856);
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px; 
+}
+
+div.box {
+    text-align: center;
+}

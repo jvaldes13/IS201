@@ -1,0 +1,131 @@
+html, body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+}*{
+    margin:0;
+    padding:0;
+}
+header,footer{
+    position: absolute;
+    background-color: #000;
+    width:100%;
+    color:rgb(5, 5, 5);
+}
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left:20%;
+    color:bisque;
+}
+header{
+    height: 10vh;
+}
+.nav{
+    position: absolute;
+    width:100%;
+}
+.nav a{
+    position: relative;
+    left:45%;
+    top: 20px;
+    color:white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.page-wrapper{
+    min-height: 100%;
+}
+
+.page-wrapper a:hover{
+    color:rgb(8, 8, 8);
+}
+footer p{
+    position: absolute;
+    left:48%;
+    bottom: 10px;
+    color:rgb(17, 17, 17);
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    color: blue;
+    padding: 10px;
+    margin: 20px;
+}
+
+.header{
+    text-align: left;
+    color: rgb(13, 13, 14);
+    padding: 10px;
+    margin: 20px;
+}
+
+h1{
+    text-align: left;
+    color: rgb(247, 160, 90);
+    padding: 10px;
+    margin: 20px;
+}
+
+.body{
+    color: rgb(241, 233, 233);
+    padding: 5px;
+    height: 5px;
+    margin: 5px;
+}
+
+p{
+    text-align: left;
+    color: rgb(10, 10, 10);
+    padding: 10px;
+    margin: 20px;
+}
+
+#top{
+    color:red;
+}
+
+.excitedText{
+    color: green;
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgba(245, 246, 247, 0.856);
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px; 
+}
+
+div.box {
+    text-align: center;
+}
+
+.footer{
+    color: rgb(7, 7, 7);
+    padding: 100px;
+    height: 10px;
+    margin: 20px;
+    position: relative;
+}
+
+.footer .footer-content{
+    border: 1px solid rgb(7, 7, 7);
+}
+
+.footer .footer-bottom{
+    background: #000;
+    color:rgb(5, 5, 5);
+    height:100px;
+    text-align:center;
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    padding-top: 100px;
+}
